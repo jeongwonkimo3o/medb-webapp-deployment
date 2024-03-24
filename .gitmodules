@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/jeongwonkimo3o/medb-webapp-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/jeongwonkimo3o/medb-webapp-frontend.git
